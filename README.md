@@ -39,4 +39,4 @@ FEFO ka matlab: jis batch ki expiry pehle hai, use pehle bechein. Sirf delivery 
 
 MIT. This is a template, not legal advice.
 
-Related: [Nesayo ka free pharmacy billing software](https://nesayo.com/v/free-pharmacy-billing-software?utm_source=github&utm_medium=readme&utm_campaign=expiry_return_worksheet).
+Related: [Nesayo ka free pharmacy billing software](https://nesayo.com/v/free-pharmacy-billing-software?utm_source=github&utm_medium=readme&utm_campaign=expiry_return_worksheet). Nesayo fits a single medical store that wants billing free forever, in the browser on any phone or computer.
